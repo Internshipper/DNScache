@@ -1,0 +1,21 @@
+*.py[co]
+
+# Unit test / coverage reports
+.coverage*
+.tox
+
+#Translations
+*.mo
+
+.DS_Store
+
+#Emacs
+.#*
+venv/
+
+# VS-code
+.vscode/
+
+# Pycharm
+.idea
+dns_by_scrapy/.idea

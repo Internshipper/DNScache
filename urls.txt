@@ -1,0 +1,2 @@
+http://detectportal.firefox.com/success.txt
+https://detectportal.firefox.com/success.txt
