@@ -2,6 +2,7 @@ DNS cache
 
 # make hostname list file
 Firefox->Library->History->Show All History->Views->Only Name and Location->Ctrl+A->Ctrl+C
+
 $ python extract_hostname.py -if CtrlVfilename -of dn.list
 
 # batch DNS to generate hosts
